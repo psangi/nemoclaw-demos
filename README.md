@@ -2,6 +2,8 @@
 
 A repository of guides with examples you can take after a successful [hello-world setup of NemoClaw](https://github.com/NVIDIA/NemoClaw).
 
+THIS IS THE MATERIAL REFERRED TO IN NVIDIA Agentic AI Webinar series (forked 22-05-2026).
+
 ## Demos
 
 | Demo | Description |
